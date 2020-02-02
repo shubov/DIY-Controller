@@ -4,7 +4,7 @@ DIY Controller is made of bluetooth controller (Perfeo VR BOX 2.0 kit) and attac
 # Installation
 1) install Vuforia Engine 8.3.x using Unity Package Manager
 2) install GoogleVR
-3) add DIYController.package to your project (this package contains Vuforia Multi Target database) and create a Multi Target in your scene 
+3) add DIY_Controller.unitypackage to your project (this package contains Vuforia Multi Target database) and create a Multi Target in your scene 
 4) print cube pattern. Attach the cube to your Perfeo VR BOX 2.0 controller
 5) add DIYControllerProvider.cs file to your Unity project
 6) replace ControllerProviderFactory.cs file in Google VR library with the one from this repo

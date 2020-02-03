@@ -1,5 +1,9 @@
 # DIY-Controller
-DIY Controller is made of bluetooth controller (Perfeo VR BOX 2.0 kit) and attached  to it multi target tracked by Vuforia Engine. DIYControllerProvider class is a realisation of IControllerProvider interface from GoogleVR library created to allow users to interact with XR objects and to use GoogleVR library without having a real Daydream Controller.
+DIY Controller is made of bluetooth controller (VR BOX 2.0 kit) and attached  to it multi target tracked by Vuforia Engine. DIYControllerProvider class is a realisation of IControllerProvider interface from GoogleVR library created to allow users to interact with XR objects and to use GoogleVR library without having a real Daydream Controller.
+
+Experimental Daydream 6DoF controllers: https://developers.google.com/vr/experimental/6dof-controllers?hl=ru
+
+
 
 # Installation
 1) install Vuforia Engine 8.3.x using Unity Package Manager
